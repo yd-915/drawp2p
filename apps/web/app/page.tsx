@@ -44,7 +44,7 @@ function CustomTopZone() {
         textAlign: 'center',
       }}
     >
-      <p>Draw without boundaries. Welcome to DrawP2P</p>
+      <p>CalcDraw: Official whiteboard companion for CalcWrld</p>
     </div>
   )
 }
