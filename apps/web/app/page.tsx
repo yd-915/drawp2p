@@ -27,7 +27,7 @@ const NameEditor = track(() => {
     <div className="pointer-events-auto flex items-end justify-end h-1/20 w-full">
       <Link
         href={`/${roomId}`}
-        className="text-center px-4 py-2 cursor-pointer h-full text-white rounded-lg bg-[#2f80ed] w-2/5"
+        className="text-center px-4 py-2 cursor-pointer h-full text-white rounded-lg bg-[#ed2f32] w-2/5"
       >
         Start Session
       </Link>
